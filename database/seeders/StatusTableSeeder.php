@@ -15,19 +15,19 @@ class StatusTableSeeder extends Seeder
         // Supongamos que deseas crear tres registros ficticios en la tabla "benefists"
         $statusData = [
             [
-                'statusName' => 'paid',
+                'StatusName' => 'paid',
             ],
             [
-                'statusName' => 'under review',
+                'StatusName' => 'under review',
             ],
             [
-                'statusName' => 'rejected',
+                'StatusName' => 'rejected',
             ],
             [
-                'statusName' => 'in progress',
+                'StatusName' => 'in progress',
             ],
             [
-                'statusName' => 'completed',
+                'StatusName' => 'completed',
             ],
 
         ];
